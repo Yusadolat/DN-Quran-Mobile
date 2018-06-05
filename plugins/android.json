@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.dawahnigeria.quran"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.dawahnigeria.quran"
     }
   },
   "dependent_plugins": {}
