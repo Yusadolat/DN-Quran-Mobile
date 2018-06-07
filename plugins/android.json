@@ -6,13 +6,6 @@
   "config_munge": {
     "files": {}
   },
-  "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.dawahnigeria.quran"
-    },
-    "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "com.dawahnigeria.quran"
-    }
-  },
+  "installed_plugins": {},
   "dependent_plugins": {}
 }
